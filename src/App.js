@@ -17,6 +17,7 @@ function App() {
   return (
     <SafeAreaView style={styles.container}>
       <Text style={styles.title}>PATIKSTORE</Text>
+      <Text style={styles.title}>PATIKSTORE</Text>
       <TextInput style={styles.search} placeholder="Ara..." />
       <View style={styles.cards}>
         <FlatList
